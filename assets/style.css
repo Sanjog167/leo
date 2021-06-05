@@ -448,6 +448,11 @@ textarea{
     .rightpart{
         margin-top: 50px;
     }
+
+    .physicalworkplace p{
+        font-size: 13px;
+        width: 100%;
+    }
 }
 
 @media(max-width:600px){
@@ -629,9 +634,6 @@ textarea{
     .modal{
         padding-left: inherit!important;
     }
-    .physicalworkplace{
-        text-align: center;
-    }
 }
 
 .wid{
@@ -641,6 +643,9 @@ textarea{
 @media(max-width:768px){
     .wid{
         width: 100%;
+    }
+    .physicalworkplace{
+        text-align: center;
     }
 }
 
