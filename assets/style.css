@@ -820,9 +820,9 @@ textarea{
         margin: 5px;
         display: inline-block;
         position: relative;
-        width: 30%!important;
+        width: 40%!important;
     }
 
     .swal-button{
-        width: 100%;
+        width: 100%!important;
     }
