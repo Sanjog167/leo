@@ -354,7 +354,7 @@ textarea{
 }
 
 .swal-modal{
-    border-radius: 15px;
+    border-radius: 15px!important;
     text-align: center;
 }
 
@@ -770,9 +770,9 @@ textarea{
 }
 
 @media(max-width:600px){
-    .footer{
+    /* .footer{
         padding-top: 180px!important;
-    }
+    } */
 
     .footer .col-lg-5{
         text-align: center;
