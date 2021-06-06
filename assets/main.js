@@ -19,8 +19,8 @@ if(name == '' || email== '' || company=='' || phone == '' || message == ''){
     else{
         $(".modal").addClass('hide');
         swal({
-            title: "Hi, You are awesome!!",
-            text: "Thank you for filling this out. Welcome aboard. We will get in touch with you in a moment",
+            title: "That’s great!",
+            text: "Thank you for the information. Welcome aboard, we will be right there with you in a moment!",
             icon: "success",
           });
           $("#firstName").val('');
