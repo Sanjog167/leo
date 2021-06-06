@@ -562,6 +562,11 @@ textarea{
     .physicalworkplace span{
         color: #ED4041;
     }
+
+    .leback img {
+        width: 74%;
+        height: 565px;
+    }
     
     .physicalworkplace button{
         border: none;
@@ -785,4 +790,15 @@ textarea{
         margin-top: inherit;
     }
     
+}
+
+@media (max-width: 1366px){
+.vids video {
+    position: absolute;
+    width: 67%;
+    height: 62%;
+    background-color: white;
+    top: 13.7%;
+    left: 16.5%;
+}
 }
