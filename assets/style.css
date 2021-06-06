@@ -290,7 +290,7 @@ textarea{
     box-shadow: 2px 2px 15px #ed40417a;
     border-radius: 5px;
     font-size: 15px;
-    padding: 8px 20px;
+    padding: 8px 50px;
     margin-top: 10px;
     outline-width: 0;
 }
@@ -816,13 +816,13 @@ textarea{
     margin-right: 15px;
 }
 
-    .swal-button-container {
+/* .swal-button-container {
         margin: 5px;
         display: inline-block;
         position: relative;
         width: 40%!important;
     }
 
-    .swal-button{
+.swal-button{
         width: 100%!important;
-    }
+    } */
